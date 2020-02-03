@@ -1,0 +1,14 @@
+{
+    "en": {
+        "home": "https://chillibits.com",
+        "header_github": "https://github.com/ChilliBits?q=color-converter",
+        "app_github": "https://github.com/chillibits/particulate-matter-app",
+        "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.colorconverter"
+    },
+    "de": {
+        "home": "https://chillibits.com",
+        "header_github": "https://github.com/ChilliBits?q=color-converter",
+        "app_github": "https://github.com/chillibits/color-converter",
+        "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.colorconverter"
+    }
+}
