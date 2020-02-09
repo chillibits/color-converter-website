@@ -178,10 +178,7 @@
                         <div class="footer_widget">
                             <h3 class="footer_title"><b>str_services</b></h3>
                             <ul>
-                                <li><a href="url_web_version" target="_blank">str_pmapp_web_version</a></li>
-                                <li><a href="url_app_github" target="_blank">str_pmapp_on_github</a></li>
-                                <li><a href="url_web_app_github" target="_blank">str_pmapp_web_on_github</a></li>
-                                <li><a href="url_api_github" target="_blank">str_api_on_github</a></li>
+                                <li><a href="url_app_github" target="_blank">str_app_on_github</a></li>
                             </ul>
                         </div>
                     </div>
@@ -189,8 +186,8 @@
                         <div class="footer_widget">
                             <h3 class="footer_title"><b>str_useful_links</b></h3>
                             <ul>
+                                <li><a href="../get-started">str_get_started</a></li>
                                 <li><a href="../features">str_features</a></li>
-                                <li><a href="../faq">str_faq</a></li>
                                 <li><a href=".">str_contact</a></li>
                                 <li><a href="../privacy">str_privacy</a></li>
                             </ul>
