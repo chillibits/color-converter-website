@@ -2,7 +2,7 @@
     // Build tool for the ChilliBits website
 
     // Constants
-    $languages = ["en", "de"];
+    $languages = ["en", "de", "fr"];
     $file_exceptions = ["build.php", "strings.json", "urls.json"];
     $strings_file = "strings.json";
     $urls_file = "urls.json";
