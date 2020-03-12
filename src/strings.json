@@ -64,7 +64,10 @@
         "modular": "Modular",
         "call_from_share_dialog": "Accessible from the 'Share dialog'",
         "feature_shortcuts": "Feature shortcuts",
-        "save_colors_clipboard": "Save colors to the clipboard"
+        "save_colors_clipboard": "Save colors to the clipboard",
+        "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
+        "cookie_button_text": "Got it!",
+        "cookie_learn_more": "Learn more"
     },
     "de": {
         "title": "Color Converter",
@@ -133,7 +136,10 @@
         "modular": "Modular",
         "call_from_share_dialog": "Vom 'Teilen-Dialog' aus erreichbar",
         "feature_shortcuts": "Feature-Shortcuts",
-        "save_colors_clipboard": "Farben in die Zwischenablage speichern"
+        "save_colors_clipboard": "Farben in die Zwischenablage speichern",
+        "cookie_message": "Diese Webseite nutzt Cookies um ein das bestmögliche Nutzererlebnis für Sie zu gewährleisten.",
+        "cookie_button_text": "Alles klar!",
+        "cookie_learn_more": "Mehr erfahren"
     },
     "fr": {
         "title": "Color Converter",
@@ -200,6 +206,9 @@
         "modular": "Modulaire",
         "call_from_share_dialog": "Accessible depuis la 'boîte de dialogue Partager'",
         "feature_shortcuts": "Raccourcis de fonctionnalités",
-        "save_colors_clipboard": "Enregistrer les couleurs dans le presse-papiers"
+        "save_colors_clipboard": "Enregistrer les couleurs dans le presse-papiers",
+        "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
+        "cookie_button_text": "Got it!",
+        "cookie_learn_more": "Learn more"
     }
 }
