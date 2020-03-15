@@ -1,5 +1,4 @@
-$(document).ready(function(){
-    
+$(document).ready(function() {
     (function($) {
         "use strict";
 
@@ -53,7 +52,7 @@ $(document).ready(function(){
                     required: "um...yea, you have to write something to send this form.",
                     minlength: "thats all? really?"
                 }
-            },
+            }/*,
             submitHandler: function(form) {
                 $(form).ajaxSubmit({
                     type:"POST",
@@ -65,19 +64,19 @@ $(document).ready(function(){
                             $(this).find(':input').attr('disabled', 'disabled');
                             $(this).find('label').css('cursor','default');
                             $('#success').fadeIn()
-                            $('.modal').modal('hide');
+                            //$('.modal').modal('hide');
 		                	$('#success').modal('show');
                         })
                     },
                     error: function() {
                         $('#contactForm').fadeTo( "slow", 1, function() {
                             $('#error').fadeIn()
-                            $('.modal').modal('hide');
+                            //$('.modal').modal('hide');
 		                	$('#error').modal('show');
                         })
                     }
                 })
-            }
+            }*/
         })
     })
         
