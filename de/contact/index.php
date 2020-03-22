@@ -174,15 +174,7 @@
                             <p><a href="https://chillibits.com/de"><b>ChilliBits</b></a><br>Amalienstraße 6<br>76646 Bruchsal<br>Germany</p>
                         </div>
                     </div>
-                    <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-3">
-                        <div class="footer_widget">
-                            <h3 class="footer_title"><b>Services</b></h3>
-                            <ul>
-                                <li><a href="https://github.com/chillibits/color-converter" target="_blank">App auf GitHub</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-md-6 col-lg-2">
+                    <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title"><b>Links</b></h3>
                             <ul>
@@ -190,6 +182,14 @@
                                 <li><a href="../features">Funktionen</a></li>
                                 <li><a href=".">Kontakt</a></li>
                                 <li><a href="../privacy">Datenschutz</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-md-6 col-lg-3">
+                        <div class="footer_widget">
+                            <h3 class="footer_title"><b>Services</b></h3>
+                            <ul>
+                                <li><a href="https://github.com/chillibits/color-converter" target="_blank">App auf GitHub</a></li>
                             </ul>
                         </div>
                     </div>
