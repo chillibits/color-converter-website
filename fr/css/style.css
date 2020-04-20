@@ -13,6 +13,12 @@
   justify-content: start;
 }
 
+.stats-title {
+  color: #B3130B;
+  font-weight: bolder;
+  font-size: 45px;
+}
+
 /* Normal desktop :1200px. */
 /* Normal desktop :992px. */
 /* Tablet desktop :768px. */

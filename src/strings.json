@@ -67,7 +67,14 @@
         "save_colors_clipboard": "Save colors to the clipboard",
         "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
         "cookie_button_text": "Got it!",
-        "cookie_learn_more": "Learn more"
+        "cookie_learn_more": "Learn more",
+        "spreading": "Spreading of the app",
+        "users_count": "2,100",
+        "users": "active users",
+        "countries_count": "141",
+        "countries": "countries",
+        "devices_count": "2,200",
+        "devices": "active devices"
     },
     "de": {
         "title": "Color Converter",
@@ -139,7 +146,14 @@
         "save_colors_clipboard": "Farben in die Zwischenablage speichern",
         "cookie_message": "Diese Webseite nutzt Cookies um ein das bestmögliche Nutzererlebnis für Sie zu gewährleisten.",
         "cookie_button_text": "Alles klar!",
-        "cookie_learn_more": "Mehr erfahren"
+        "cookie_learn_more": "Mehr erfahren",
+        "spreading": "Verbreitung der App",
+        "users_count": "2.100",
+        "users": "aktive Nutzer",
+        "countries_count": "141",
+        "countries": "Länder",
+        "devices_count": "2.200",
+        "devices": "aktive Geräte"
     },
     "fr": {
         "title": "Color Converter",
@@ -209,6 +223,13 @@
         "save_colors_clipboard": "Enregistrer les couleurs dans le presse-papiers",
         "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
         "cookie_button_text": "Got it!",
-        "cookie_learn_more": "Learn more"
+        "cookie_learn_more": "Learn more",
+        "spreading": "Spreading of the app",
+        "users_count": "2,100",
+        "users": "active users",
+        "countries_count": "141",
+        "countries": "countries",
+        "devices_count": "2,200",
+        "devices": "active devices"
     }
 }
