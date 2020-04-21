@@ -27,7 +27,7 @@
     <!-- <link rel="stylesheet" href="../css/responsive.css"> -->
 
     <link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css"/>
-    <script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","colors":{"popup":{"background":"#222222","text":"#ffffff","border":"#f9f9f9"},"button":{"background":"#f9f9f9","text":"#000000"}},"content":{"href":"https://chillibits.com/colorconverter/de/privacy/#cookies","message":"This website uses cookies to ensure you get the best experience on our website.","link":"Learn more","button":"Got it!"},"position":"bottom-right","corners":"normal","transparency":"15"})});</script>
+    <script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","colors":{"popup":{"background":"#222222","text":"#ffffff","border":"#f9f9f9"},"button":{"background":"#f9f9f9","text":"#000000"}},"content":{"href":"https://chillibits.com/colorconverter/de/privacy/#cookies","message":"Ce site web utilise des cookies pour vous garantir la meilleure expérience sur notre site web.","link":"Apprendre encore plus","button":"Je l'ai!"},"position":"bottom-right","corners":"normal","transparency":"15"})});</script>
 </head>
 
 <body>

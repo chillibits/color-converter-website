@@ -225,17 +225,17 @@
         "call_from_share_dialog": "Accessible depuis la 'boîte de dialogue Partager'",
         "feature_shortcuts": "Raccourcis de fonctionnalités",
         "save_colors_clipboard": "Enregistrer les couleurs dans le presse-papiers",
-        "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
-        "cookie_button_text": "Got it!",
-        "cookie_learn_more": "Learn more",
-        "spreading": "Spreading of the app",
-        "installations_count": "10,000",
+        "cookie_message": "Ce site web utilise des cookies pour vous garantir la meilleure expérience sur notre site web.",
+        "cookie_button_text": "Je l'ai!",
+        "cookie_learn_more": "Apprendre encore plus",
+        "spreading": "Diffusion de l'application",
+        "installations_count": "10 000",
         "installations": "installations",
-        "users_count": "2,100",
-        "users": "active users",
+        "users_count": "2 100",
+        "users": "utilisateurs actifs",
         "countries_count": "141",
-        "countries": "countries",
-        "devices_count": "2,200",
-        "devices": "active devices"
+        "countries": "pays",
+        "devices_count": "2 200",
+        "devices": "appareils actifs"
     }
 }
