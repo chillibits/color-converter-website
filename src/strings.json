@@ -69,13 +69,13 @@
         "cookie_button_text": "Got it!",
         "cookie_learn_more": "Learn more",
         "spreading": "Spreading of the app",
-        "installations_count": "10,000",
+        "installations_count": "11,500",
         "installations": "installations",
-        "users_count": "2,100",
+        "users_count": "2,300",
         "users": "active users",
-        "countries_count": "141",
+        "countries_count": "142",
         "countries": "countries",
-        "devices_count": "2,200",
+        "devices_count": "2,400",
         "devices": "active devices"
     },
     "de": {
@@ -150,13 +150,13 @@
         "cookie_button_text": "Alles klar!",
         "cookie_learn_more": "Mehr erfahren",
         "spreading": "Verbreitung der App",
-        "installations_count": "10.000",
+        "installations_count": "11.500",
         "installations": "Installationen",
-        "users_count": "2.100",
+        "users_count": "2.300",
         "users": "aktive Nutzer",
-        "countries_count": "141",
+        "countries_count": "142",
         "countries": "Länder",
-        "devices_count": "2.200",
+        "devices_count": "2.400",
         "devices": "aktive Geräte"
     },
     "fr": {
@@ -229,13 +229,13 @@
         "cookie_button_text": "Je l'ai!",
         "cookie_learn_more": "Apprendre encore plus",
         "spreading": "Diffusion de l'application",
-        "installations_count": "10 000",
+        "installations_count": "11 500",
         "installations": "installations",
-        "users_count": "2 100",
+        "users_count": "2 300",
         "users": "utilisateurs actifs",
-        "countries_count": "141",
+        "countries_count": "142",
         "countries": "pays",
-        "devices_count": "2 200",
+        "devices_count": "2 400",
         "devices": "appareils actifs"
     }
 }
