@@ -65,17 +65,14 @@
         "cookie_button_text": "Got it!",
         "cookie_learn_more": "Learn more",
         "spreading": "Spreading of the app",
-        "download_count": "12,500",
         "download_from_the_playstore": "Download from Play Store",
         "download_now": "Download Now",
         "downloads": "Downloads",
         "download": "Download",
-        "users_count": "2,400",
         "users": "active users",
-        "countries_count": "145",
         "countries": "countries",
-        "devices_count": "2,500",
-        "devices": "active devices"
+        "devices": "active devices",
+        "loading": "Loading ..."
     },
     "de": {
         "title": "Color Converter",
@@ -145,17 +142,14 @@
         "cookie_button_text": "Alles klar!",
         "cookie_learn_more": "Mehr erfahren",
         "spreading": "Verbreitung der App",
-        "download_count": "12.500",
         "download_from_the_playstore": "Von Google Play herunterladen",
         "download_now": "Jetzt herunterladen",
         "downloads": "Downloads",
         "download": "Herunterladen",
-        "users_count": "2.400",
         "users": "aktive Nutzer",
-        "countries_count": "145",
         "countries": "Länder",
-        "devices_count": "2.500",
-        "devices": "aktive Geräte"
+        "devices": "aktive Geräte",
+        "loading": "Laden ..."
     },
     "fr": {
         "title": "Color Converter",
@@ -223,17 +217,14 @@
         "cookie_button_text": "Je l'ai!",
         "cookie_learn_more": "Apprendre encore plus",
         "spreading": "Diffusion de l'application",
-        "download_count": "12 500",
         "download_from_the_playstore": "Télécharger depuis Play Store",
         "download_now": "Télécharger maintenant",
         "downloads": "Téléchargements",
         "download": "Télécharger",
-        "users_count": "2 400",
         "users": "utilisateurs actifs",
-        "countries_count": "145",
         "countries": "pays",
-        "devices_count": "2 500",
-        "devices": "appareils actifs"
+        "devices": "appareils actifs",
+        "loading": "Charger..."
     },
     "es": {
         "title": "Color Converter",
@@ -301,16 +292,13 @@
         "cookie_button_text": "¡Ya lo tengo!",
         "cookie_learn_more": "Más información",
         "spreading": "La difusión de la aplicación",
-        "download_count": "12.500",
         "download_from_the_playstore": "Descargar desde la Play Store",
         "download_now": "Descargue ahora",
         "downloads": "Descargas",
         "download": "Descargue",
-        "users_count": "2.400",
         "users": "usuarios activos",
-        "countries_count": "145",
         "countries": "paises",
-        "devices_count": "2.500",
-        "devices": "dispositivos activos"
+        "devices": "dispositivos activos",
+        "loading": "Cargando..."
     }
 }

@@ -388,6 +388,49 @@ $(document).ready(function() {
 
 
 
+function animateValue(id, end) {
+  var current = 0;
+  var y = 0;
+  var obj = document.getElementById(id);
+  var timer = setInterval(function() {
+      current++;
+      y = Math.round(end - end * Math.pow(Math.E, -0.02 * current));
+      obj.innerHTML = thousands_separators(y);
+      if (y == end) clearInterval(timer);
+  }, 1);
+}
+
+function thousands_separators(num) {
+  var num_parts = num.toString().split(",");
+  num_parts[0] = num_parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+  return num_parts.join(",");
+}
+
+function elementInView(elem){
+  var elementTop = $(elem).offset().top;
+  var elementBottom = elementTop + $(elem).outerHeight();
+  var viewportTop = $(window).scrollTop();
+  var viewportBottom = viewportTop + $(window).height();
+  return elementBottom > viewportTop && elementTop < viewportBottom;
+};
+
+var isInView = false;
+
+if(isInView = elementInView($('#stats1'))) animateStats();
+$(window).scroll(function() {
+  if (isInView == false && (isInView = elementInView($('#stats1')))) animateStats();
+});
+
+function animateStats() {
+  console.log("Test");
+  animateValue("stats1", 12500);
+  animateValue("stats2", 2400);
+  animateValue("stats3", 145);
+  animateValue("stats4", 2500);
+}
+
+
+
 //------- Mailchimp js --------//  
 function mailChimp() {
   $('#mc_embed_signup').find('form').ajaxChimp();
