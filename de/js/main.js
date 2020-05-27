@@ -422,10 +422,10 @@ $(window).scroll(function() {
 });
 
 function animateStats() {
-  animateValue("stats1", 13200);
-  animateValue("stats2", 2400);
+  animateValue("stats1", 13300);
+  animateValue("stats2", 2500);
   animateValue("stats3", 151);
-  animateValue("stats4", 2500);
+  animateValue("stats4", 2600);
 }
 
 
