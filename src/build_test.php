@@ -25,7 +25,7 @@
         echo("Build for $lang done.");
     }
 
-    echo("Build successful");
+    echo("Test build successful");
     exit;
 
     // --------------------- Functions ----------------------
@@ -101,4 +101,3 @@
         return $files;
     }
 ?>
-test build successful
