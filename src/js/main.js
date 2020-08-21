@@ -425,7 +425,7 @@ function animateStats() {
   animateValue("stats1", 20500);
   animateValue("stats2", 155);
   animateValue("stats3", 3300);
-  animateValue("stats4", 3400);
+  animateValue("stats4", 3500);
 }
 
 
