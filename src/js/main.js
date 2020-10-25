@@ -422,21 +422,17 @@ $(window).scroll(function() {
 });
 
 function animateStats() {
-  animateValue("stats1", 26800);
+  animateValue("stats1", 26900);
   animateValue("stats2", 155);
   animateValue("stats3", 3500);
   animateValue("stats4", 3700);
 }
-
-
 
 //------- Mailchimp js --------//  
 function mailChimp() {
   $('#mc_embed_signup').find('form').ajaxChimp();
 }
 mailChimp();
-
-
 
         // Search Toggle
         $("#search_input_box").hide();
