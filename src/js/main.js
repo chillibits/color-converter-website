@@ -12,10 +12,6 @@ $(window).on('scroll', function () {
 	}
 });
 
-
-
-
-
 $(document).ready(function(){
 
 // mobile_menu
@@ -224,7 +220,6 @@ $('.popup-video').magnificPopup({
 	type: 'iframe'
 });
 
-
   // scrollIt for smoth scroll
   $.scrollIt({
     upKey: 38,             // key code to navigate to the next section
@@ -293,7 +288,6 @@ dots:false,
       0:{
           items:1,
           nav:false
-
       },
       767:{
           items:1,
@@ -331,7 +325,6 @@ dots:false,
       0:{
           items:1,
           nav:false
-
       },
       767:{
           items:1,
@@ -386,8 +379,6 @@ $(document).ready(function() {
   wow.init();
 });
 
-
-
 function animateValue(id, end) {
   var current = 0;
   var y = 0;
@@ -422,7 +413,7 @@ $(window).scroll(function() {
 });
 
 function animateStats() {
-  animateValue("stats1", 26900);
+  animateValue("stats1", 27000);
   animateValue("stats2", 155);
   animateValue("stats3", 3500);
   animateValue("stats4", 3700);
